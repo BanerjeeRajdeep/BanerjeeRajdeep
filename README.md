@@ -9,6 +9,7 @@
 
 <p align="center">
     <a href="https://linkedin.com/in/USERNAME"><img height="34" src="images/socials/linkedin.svg" alt="LinkedIn"></a>&nbsp;&nbsp;
+    <a href="https://facebook.com/USERNAME"><img height="34" src="images/socials/facebook.svg" alt="Facebook"></a>&nbsp;&nbsp;
     <a href="https://instagram.com/user_r.banerjee"><img height="34" src="images/socials/instagram.svg" alt="Instagram"></a>&nbsp;&nbsp;
 </p>
 
